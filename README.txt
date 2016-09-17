@@ -1,0 +1,1 @@
+Markdown previewer built with React and Bootstrap, giving the user a real-time preview of his text.
